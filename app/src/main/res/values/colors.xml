@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4E4E8E</color>
+    <color name="colorPrimaryDark">#3E3E6E</color>
+    <color name="colorAccent">#ffcc00</color>
+    <color name="alertBG">#ff4d4d</color>
+    <color name="sunnyBG">#ffcc00</color>
+    <color name="cloudyBG">#a6a6a6</color>
+    <color name="clearBG">#80aaff</color>
+    <color name="snowyBG">#fafafa</color>
+    <color name="rainyBG">#4d4dff</color>
+
+</resources>
